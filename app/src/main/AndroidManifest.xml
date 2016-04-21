@@ -15,6 +15,10 @@
             android:name=".FollowlistActivity"
             android:label="@string/title_activity_followlist" >
         </activity>
+        <activity
+            android:name=".SignUpActivity"
+            android:label="@string/title_activity_sign_up" >
+        </activity>
     </application>
 
 </manifest>
